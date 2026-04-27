@@ -5,7 +5,7 @@ R program:
 students <- data.frame(
 Name =
 c("Arjuna","Meenakshi","Ramu","Anitha reddy","harsha","dhat","ashish","chandu","srinu","Lakshmi"),
-Maths = c(89,90,70,95,80,88,75,92,68,86),
+Maths = c(90,90,70,95,80,88,75,92,68,86),
 Science = c(78,88,60,92,85,80,70,90,75,82),
 English = c(92,80,75,98,88,85,78,91,80,87)
 )
@@ -30,7 +30,7 @@ Retail Sales Data Analysis
 R Program
 # Step 1: Create dataset
 sales <- data.frame(
-Product = c("Phone","Laptop","Headset","Bag","Camera","Mouse","Keyboard"),
+Product = c("Phone","Laptop","Headset","Bag","Camera","Mouse","ps-6"),
 Day1 = c(5,7,7,10,2,8,6),
 Day2 = c(4,2,8,12,3,7,5),
 Day3 = c(6,4,6,8,1,9,7),
