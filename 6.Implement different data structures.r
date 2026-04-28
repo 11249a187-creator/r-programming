@@ -51,9 +51,8 @@ College Student Database (Data Frames)
 R program:
 Data frame is best for structured tabular data.
 students <- data.frame(
-
 RollNo = c(1, 2, 3),
-Name = c("Badri", "Dhatri", "srinu),
+Name = c("Badri", "Dhatri", "srinu"),
 Dept = c("CSE", "ECE", "IT"),
 Marks = c(88, 78, 92)
 )
